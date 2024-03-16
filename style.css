@@ -1,0 +1,38 @@
+*{
+    background-color: black;
+}
+h1{
+    color: white;
+font-style:oblique;
+}
+.counter{
+    color: white;
+    border-color: white;
+    border-bottom: color(white);
+
+}
+
+    .container {
+    text-align: center;
+  }
+  
+  .counter {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .buttons {
+    margin-bottom: 20px;
+  }
+  
+  #error {
+    display: none;
+    color: red;
+  }
+  .bg-color{
+background-color: azure;
+  }
+  #clearBtn{
+    border-color: white;
+    color:white;
+  }
